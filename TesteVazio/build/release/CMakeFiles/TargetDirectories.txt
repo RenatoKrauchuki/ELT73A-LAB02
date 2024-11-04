@@ -1,0 +1,3 @@
+C:/Users/renat/OneDrive/Documentos/LAB02/ELT73A-LAB02/TesteVazio/build/release/CMakeFiles/TesteVazio.dir
+C:/Users/renat/OneDrive/Documentos/LAB02/ELT73A-LAB02/TesteVazio/build/release/CMakeFiles/edit_cache.dir
+C:/Users/renat/OneDrive/Documentos/LAB02/ELT73A-LAB02/TesteVazio/build/release/CMakeFiles/rebuild_cache.dir
